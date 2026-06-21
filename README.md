@@ -1,2 +1,14 @@
 # data-ewc-hub
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
